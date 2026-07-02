@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://notyourgurudocs.github.io/sitemap.xml
